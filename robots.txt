@@ -1,0 +1,4 @@
+Sitemap: http://xiechengxudelong.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: xiechengxudelong.github.io
